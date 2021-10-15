@@ -2,8 +2,8 @@
 widget: hero
 headless: true
 weight: 10
-title: Project Docs Template
-hero_media: book.svg
+title: Introduction to Materials Science and Engineering
+hero_media: https://fervent-austin-96a173.netlify.app/figures/MSEParadigm.svg
 design:
   background:
     gradient_start: '#4bb4e3'
@@ -19,13 +19,11 @@ cta_alt:
   label: View Documentation
 cta_note:
   label: >-
-    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
-      Show your product version here:<!-- Automatically filled based on data-repo value -->
+    <span class="js-github-release" data-repo="chrisdaaz/201-301_hugo">
+      Version:<!-- Automatically filled based on data-repo value -->
     </span>
 ---
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
+Jacob Z. Kelter, Kenneth R. Shull, Jonathan D. Emery
 
-Write something interesting about your project here.
-
-<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-project-documentation" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Project Docs template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+This text introduces the core topics and foundational concepts of Materials Science and Engineering. It is structured within the framework of the Materials Science Paradgm. We cover introductory materials processing, structure, properties, and performance with particular emphasis on the relationship between structure and properties. We focus on conventional materials classes: metals, ceramics, and polymers -aand discuss their various properties - such as mechanical, electronic, thermal, optical, magnetic, and electrochemical. Broader themes that arise are how materials’ performance influences technological development, the economy, the environment, and society. This text is a pilot version intented to leverage computational tools to assist students in connecting conceptual understanding of materials science-relevent phenomenon with their mathematical models.
